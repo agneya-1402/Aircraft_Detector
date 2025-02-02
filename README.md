@@ -3,7 +3,12 @@
 ## Overview
 This project implements an **Aircraft Detector** using **YOLOv8** to detect aircraft in images. The dataset is automatically split into **train, validation, and test sets**, and a YOLOv8 **Nano model** is trained on this data. 
 
-Examples:
+Examples: 
+![1](https://github.com/agneya-1402/Aircraft_Detector/blob/main/demo_outputs/Figure_1.png)
+![2](https://github.com/agneya-1402/Aircraft_Detector/blob/main/demo_outputs/Figure_11.png)
+![3](https://github.com/agneya-1402/Aircraft_Detector/blob/main/demo_outputs/Figure_2.png)
+![4](https://github.com/agneya-1402/Aircraft_Detector/blob/main/demo_outputs/Figure_3.png)
+![5](https://github.com/agneya-1402/Aircraft_Detector/blob/main/demo_outputs/Figure_5.png)
 
 ## Project Structure
 ```
