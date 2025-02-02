@@ -24,6 +24,7 @@ pip install ultralytics numpy matplotlib opencv-python
 
 ## Dataset Preparation
 The dataset is automatically split into **train (80%)**, **validation (10%)**, and **test (10%)** during execution.
+Dataset: https://www.kaggle.com/datasets/khlaifiabilel/military-aircraft-recognition-dataset/data
 
 ## Training the Model
 To train the YOLOv8 model, run:
