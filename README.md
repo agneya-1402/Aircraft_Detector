@@ -20,8 +20,8 @@ Examples:
 ├── weights/
 │   ├── best.pt  # Best trained model
 │   ├── last.pt  # Last trained model
-├── train.py  # Training script
-├── demo_test.py  # Inference script
+├── train_model_v2.py  # Training script
+├── test_v2.py  # Inference script
 ├── README.md  # Project documentation
 ```
 
