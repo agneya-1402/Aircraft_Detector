@@ -7,16 +7,7 @@ Examples:
 
 ## Project Structure
 ```
-├── dataset/
-│   ├── images/
-│   │   ├── train/  # Training images
-│   │   ├── val/    # Validation images
-│   │   ├── test/   # Test images
-│   ├── labels/
-│   │   ├── train/  # Training labels
-│   │   ├── val/    # Validation labels
-│   │   ├── test/   # Test labels
-│   ├── dataset.yaml  # YOLO dataset configuration
+├── dataset.yaml  # YOLO dataset configuration
 ├── weights/
 │   ├── best.pt  # Best trained model
 │   ├── last.pt  # Last trained model
