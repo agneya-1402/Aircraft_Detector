@@ -7,7 +7,7 @@ Examples:
 
 ## Project Structure
 ```
-├── dataset.yaml  # YOLO dataset configuration
+├── dataset.yaml  # YOLO dataset config
 ├── weights/
 │   ├── best.pt  # Best trained model
 │   ├── last.pt  # Last trained model
@@ -48,7 +48,6 @@ This will:
 
 ## Evaluation Metrics
 The trained model is evaluated using:
-- **Accuracy**
 - **Precision**
 - **Recall**
 - **F1 Score**
