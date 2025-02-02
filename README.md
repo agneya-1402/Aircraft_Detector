@@ -1,7 +1,7 @@
 # Aircraft Detector using YOLOv8
 
 ## Overview
-This project implements an **Aircraft Detector** using **YOLOv8** to detect aircraft in images. The dataset is automatically split into **train, validation, and test sets**, and a YOLOv8 **Nano model** is trained on this data. The repository contains the training, testing, dataset files, trained model weights, and evaluation metrics.
+This project implements an **Aircraft Detector** using **YOLOv8** to detect aircraft in images. The dataset is automatically split into **train, validation, and test sets**, and a YOLOv8 **Nano model** is trained on this data. 
 
 Examples:
 
