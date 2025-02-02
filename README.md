@@ -53,11 +53,11 @@ The trained model is evaluated using:
 - **Recall**
 - **F1 Score**
 
-Results :
+Results : ![Results](https://github.com/agneya-1402/Aircraft_Detector/blob/main/outputs/results.png)
 F1 Curve : ![F1_curve](https://github.com/agneya-1402/Aircraft_Detector/blob/main/outputs/F1_curve.png)
-PRECISION Curve :
-PRECISION RECALL Curve : 
-RECALL Curve :
+PRECISION Curve : ![PR_curve](https://github.com/agneya-1402/Aircraft_Detector/blob/main/outputs/P_curve.png)
+PRECISION RECALL Curve : ![P_curve](https://github.com/agneya-1402/Aircraft_Detector/blob/main/outputs/PR_curve.png)
+RECALL Curve : ![R_curve](https://github.com/agneya-1402/Aircraft_Detector/blob/main/outputs/R_curve.png)
 
 
 ## Model Weights
