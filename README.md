@@ -54,7 +54,7 @@ The trained model is evaluated using:
 - **F1 Score**
 
 Results :
-F1 Curve :
+F1 Curve : [F1_curve](https://github.com/agneya-1402/Aircraft_Detector/blob/main/outputs/F1_curve.png)
 PRECISION Curve :
 PRECISION RECALL Curve : 
 RECALL Curve :
