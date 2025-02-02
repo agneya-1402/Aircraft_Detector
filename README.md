@@ -29,17 +29,17 @@ Dataset: https://www.kaggle.com/datasets/khlaifiabilel/military-aircraft-recogni
 ## Training the Model
 To train the YOLOv8 model, run:
 ```bash
-python train.py
+python train_model_v2.py
 ```
 This will:
 - Load the **YOLOv8-Nano** model (`yolov8n.pt`)
-- Train the model for **15 epochs**
+- Train the model for **15 epochs** (increase to 50 if your machine can handle)
 - Save trained weights in the `weights/` directory
 
 ## Testing the Model
 Run inference on test images:
 ```bash
-python demo_test.py
+python test_v2.py
 ```
 This will:
 - Detect objects in all test images
